@@ -1,0 +1,2 @@
+# Expectation_Maximization_algoritihm_implementation_for_Gaussian_Mixture_Model
+Fit binodal multidimention GMM with EM algorithm, an EM algorithm implementation
